@@ -6,5 +6,5 @@ function App() {
       <NewsList />
     </div>
   );
-
+}
 export default App;
