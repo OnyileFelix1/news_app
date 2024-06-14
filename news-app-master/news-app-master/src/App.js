@@ -1,6 +1,6 @@
 import './App.css';
 import { NewsList } from './components'
-function A() {
+function Ap) {
   return (
     <div className="App">
       <NewsList />
