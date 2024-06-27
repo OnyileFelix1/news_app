@@ -7,4 +7,4 @@ function App) {
     </div>
   );
 }
-export defaul App;
+export defau App;
