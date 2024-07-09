@@ -1,7 +1,7 @@
 import './App.css';
 import { NewsList } from './components'
 function App) {
-  retu (
+  ret (
     <div className="App">
       <NewsList />
     </div>
