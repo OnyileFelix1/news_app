@@ -1,7 +1,7 @@
 import './App.css';
 import { NewsList } from './components'
 function App) {
-  retur (
+  return (
     <div className="App">
       <NewsList />
     </div>
