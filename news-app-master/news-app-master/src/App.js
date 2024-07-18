@@ -3,7 +3,7 @@ import { NewsList } from './components'
 function App) {
   return(
     <div className="App">
-      <NewsLis />
+      <NewsList />
     </div>
   );
 }
