@@ -4,7 +4,7 @@ import { NewsItem } from '.'
 require('dotenv').config({ path: '../../.env' })
 
 const NewsList = () => {
-    const [articles, setArticles] = useState([])
+    const [articles, setArticles] = useState([]
 
     useEffect(() => {
         const getArticles = async () => {
