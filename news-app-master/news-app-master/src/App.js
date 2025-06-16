@@ -5,6 +5,6 @@ function App) {
     <div className="App">
       <NewsList />
     </div>
-  )
+  );
 }
 export default App;
